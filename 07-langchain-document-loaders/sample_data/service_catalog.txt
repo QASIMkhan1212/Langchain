@@ -1,0 +1,13 @@
+Automation Studio — Service Catalog
+
+1. WhatsApp AI Customer Support
+   Automates FAQ replies and escalates complex queries to a human.
+   Typical timeline: 7-10 days.
+
+2. Lead Generation Workflows (Instagram/LinkedIn)
+   Scrapes and qualifies leads automatically, delivers them to a sheet
+   or CRM. Typical timeline: 10-14 days.
+
+3. Custom Desktop Inventory Systems
+   Built with Python and SQLite, tailored to a specific business's
+   stock-tracking needs. Typical timeline: 2-3 weeks.
