@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LangChain Core → LangGraph Learning Path
 
 A self-built, numbered curriculum: one folder per topic, each with
@@ -60,3 +61,6 @@ written against the current API (`langchain_core.runnables`,
 `langchain_text_splitters`, `create_agent` from `langchain.agents`), so
 if you see older tutorials using those legacy paths, that's why they
 look different from what's here.
+=======
+# Langchain
+>>>>>>> d97f211fcdf38dc058165826abc8912e7da5f436
